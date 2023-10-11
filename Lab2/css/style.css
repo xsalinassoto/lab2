@@ -1,0 +1,15 @@
+.center{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    display: block;
+    margin-top: 1em;
+}
+.headstrong{
+    background-color: #f9e79f;
+    text-size: 25px;
+    text-align: center;
+}
